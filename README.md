@@ -10,7 +10,7 @@
 --->
 # Vikash Kumar - Full Stack Developer
 
-![Profile Picture](https://avatars.githubusercontent.com/u/128849038?v=4)
+<!---![Profile Picture](https://avatars.githubusercontent.com/u/128849038?v=4)--->
 
 Welcome to my GitHub repository! I'm Vikash Kumar, a passionate full stack developer with a keen interest in coding, exploring new innovative ideas, and various technologies. Currently, I'm diving deep into the fascinating realms of Artificial Intelligence (AI) and Machine Learning (ML) while continuing to enhance my skills as a full stack developer.
 
