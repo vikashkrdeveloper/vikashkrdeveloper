@@ -67,7 +67,7 @@ Here are some of the projects I've worked on:
 
 4. **Social Media App**
    - Description: A social media platform for connecting users and sharing content.
-   - Repository: [Social Media App Repository](https://socialmedia-web-app.onrender.com)
+   - Repository: [Social Media App Repository](https://github.com/vikashkrdeveloper/algocoretech.socialmedia.mern.project.git)
 
 5. **CRUD Operations**
    - Description: A web application for performing CRUD (Create, Read, Update, Delete) operations on a database.
