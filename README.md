@@ -10,8 +10,6 @@
 --->
 # Vikash Kumar - Full Stack Developer
 
-<!---![Profile Picture](https://avatars.githubusercontent.com/u/128849038?v=4)--->
-
 Welcome to my GitHub repository! I'm Vikash Kumar, a passionate full stack developer with a keen interest in coding, exploring new innovative ideas, and various technologies. Currently, I'm diving deep into the fascinating realms of Artificial Intelligence (AI) and Machine Learning (ML) while continuing to enhance my skills as a full stack developer.
 
 ## About Me
@@ -41,6 +39,47 @@ As a full stack developer, my current focus areas include:
 - **Backend Development**: Strengthening my backend skills with Node.js, Express.js, and other frameworks to build robust and scalable server-side applications.
 - **Database Management**: Exploring database technologies like MongoDB and MySQL for efficient data storage and retrieval.
 - **AI/ML**: Delving into the realms of Artificial Intelligence and Machine Learning, learning about algorithms, models, and their real-world applications.
+
+## Technologies
+
+Throughout my career, I have worked with a variety of technologies, including but not limited to:
+
+- **Frontend**: HTML, CSS, JavaScript, React.js, tailwindcss
+- **Backend**: Node.js, Express.js, TypeScript, Php
+- **Database**: MongoDB, MySQL
+- **Other Technologies**: C++, C, Python, Git, Render, Hostinger, Netlify
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. **Portfolio Website**
+   - Description: My personal portfolio showcasing my skills, projects, and achievements.
+   - Repository: [Portfolio Repository](https://github.com/vikashkrdeveloper/portfolio.github.io.git)
+
+2. **Coding Contest Platform**
+   - Description: Developed a platform for hosting online coding contests for my college, facilitating coding challenges and competitions among students.
+   - Repository: [Code Editor Repository](https://github.com/vikashkrdeveloper/Online-Test-Website-1.1.git)
+
+3. **College Technical Club Fullstack Site**
+   - Description: A full-stack website for the technical club at my college, featuring event management and member profiles.
+   - Repository: [College Technical Club](http:178.168.139.228)
+
+4. **Social Media App**
+   - Description: A social media platform for connecting users and sharing content.
+   - Repository: [Social Media App Repository](https://socialmedia-web-app.onrender.com)
+
+5. **CRUD Operations**
+   - Description: A web application for performing CRUD (Create, Read, Update, Delete) operations on a database.
+   - Repository: [CRUD Operations Repository](https://github.com/vikashkrdeveloper/curdoperation.git)
+
+6. **Polling Booth**
+   - Description: An online polling platform for conducting surveys and collecting responses.
+   - Repository: [Polling Booth Repository](https://github.com/vikashkrdeveloper/PollingBoothTwo.git)
+
+7. **E-commerce App**
+   - Description: An e-commerce application for buying and selling products online.
+   - Repository: [E-commerce App Repository](https://github.com/vikashkrdeveloper/fullstack-ecommerceapp-algocoretech.git)
 
 
 ## Collaboration
