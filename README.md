@@ -10,7 +10,7 @@
 --->
 # Vikash Kumar - Full Stack Developer
 
-![Profile Picture](profile_picture.jpg)
+![Profile Picture](https://avatars.githubusercontent.com/u/128849038?v=4)
 
 Welcome to my GitHub repository! I'm Vikash Kumar, a passionate full stack developer with a keen interest in coding, exploring new innovative ideas, and various technologies. Currently, I'm diving deep into the fascinating realms of Artificial Intelligence (AI) and Machine Learning (ML) while continuing to enhance my skills as a full stack developer.
 
@@ -22,7 +22,16 @@ I thrive on challenges and am always eager to learn and experiment with new tech
 
 - **Coding**: I have a strong passion for coding and enjoy solving complex problems through elegant solutions.
 - **New Innovative Ideas**: I'm constantly exploring new ideas and innovations, looking for ways to apply technology to make a positive impact.
+- **Full Stack Development:** I am currently working as a full stack developer, proficient in both frontend and backend technologies.
 - **AI/ML**: I'm currently immersed in learning about Artificial Intelligence and Machine Learning, fascinated by their potential to transform industries and drive innovation.
+
+
+## Currently Learning
+
+I am currently focusing on expanding my knowledge and skills in the following areas:
+
+- **AI/ML:** I am actively learning about Artificial Intelligence and Machine Learning, exploring their applications and algorithms to solve real-world problems.
+
 
 ## Current Focus
 
@@ -32,6 +41,7 @@ As a full stack developer, my current focus areas include:
 - **Backend Development**: Strengthening my backend skills with Node.js, Express.js, and other frameworks to build robust and scalable server-side applications.
 - **Database Management**: Exploring database technologies like MongoDB and MySQL for efficient data storage and retrieval.
 - **AI/ML**: Delving into the realms of Artificial Intelligence and Machine Learning, learning about algorithms, models, and their real-world applications.
+
 
 ## Collaboration
 
@@ -48,7 +58,6 @@ Feel free to connect with me on LinkedIn or drop me an email if you'd like to di
 ## License
 
 This project is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the code as needed.
-
 
 <!---
 vikashkrdeveloper/vikashkrdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
