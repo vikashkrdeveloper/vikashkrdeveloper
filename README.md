@@ -21,8 +21,8 @@ I thrive on challenges and am always eager to learn and experiment with new tech
 ## Interests
 
 - **Coding**: I have a strong passion for coding and enjoy solving complex problems through elegant solutions.
-- **New Innovative Ideas**: I'm constantly exploring new ideas and innovations, looking for ways to apply technology to make a positive impact.
 - **Full Stack Development:** I am currently working as a full stack developer, proficient in both frontend and backend technologies.
+- **New Innovative Ideas**: I'm constantly exploring new ideas and innovations, looking for ways to apply technology to make a positive impact.
 - **AI/ML**: I'm currently immersed in learning about Artificial Intelligence and Machine Learning, fascinated by their potential to transform industries and drive innovation.
 
 
