@@ -63,7 +63,7 @@ Here are some of the projects I've worked on:
 
 3. **College Technical Club Fullstack Site**
    - Description: A full-stack website for the technical club at my college, featuring event management and member profiles.
-   - Repository: [College Technical Club](http:178.16.139.228)
+   - Link: [College Technical Club](http:178.16.139.228)
 
 4. **Social Media App**
    - Description: A social media platform for connecting users and sharing content.
