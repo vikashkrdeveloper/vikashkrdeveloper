@@ -36,7 +36,7 @@ I am currently focusing on expanding my knowledge and skills in the following ar
 As a full stack developer, my current focus areas include:
 
 - **Frontend Development**: Mastering modern frontend technologies such as React.js to create intuitive and responsive user interfaces.
-- **Backend Development**: Strengthening my backend skills with Node.js, Express.js, and other frameworks to build robust and scalable server-side applications.
+- **Backend Development**: Strengthening my backend skills with Node.js, Express.js, PHP, and other frameworks or libraries to build robust and scalable server-side applications.
 - **Database Management**: Exploring database technologies like MongoDB and MySQL for efficient data storage and retrieval.
 - **AI/ML**: Delving into the realms of Artificial Intelligence and Machine Learning, learning about algorithms, models, and their real-world applications.
 
