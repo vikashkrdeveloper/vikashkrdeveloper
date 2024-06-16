@@ -10,7 +10,7 @@
 --->
 # Vikash Kumar - Full Stack Developer
 
-Welcome to my GitHub repository! I'm Vikash Kumar, a passionate full stack developer with a keen interest in coding, exploring new innovative ideas, and various technologies. Currently, I'm diving deep into the fascinating realms of Artificial Intelligence (AI) and Machine Learning (ML) while continuing to enhance my skills as a full stack developer.
+Welcome to my GitHub repository! I'm Vikash Kumar, a passionate full-stack developer with a keen interest in coding, exploring new innovative ideas, and various technologies. Currently, I'm diving deep into the fascinating realms of Artificial Intelligence (AI) and Machine Learning (ML) while continuing to enhance my skills as a full-stack developer.
 
 ## About Me
 
@@ -33,7 +33,7 @@ I am currently focusing on expanding my knowledge and skills in the following ar
 
 ## Current Focus
 
-As a full stack developer, my current focus areas include:
+As a full-stack developer, my current focus areas include:
 
 - **Frontend Development**: Mastering modern frontend technologies such as React.js to create intuitive and responsive user interfaces.
 - **Backend Development**: Strengthening my backend skills with Node.js, Express.js, PHP, and other frameworks or libraries to build robust and scalable server-side applications.
@@ -44,7 +44,7 @@ As a full stack developer, my current focus areas include:
 
 Throughout my career, I have worked with a variety of technologies, including but not limited to:
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, tailwindcss
+- **Frontend**: HTML, CSS, JavaScript, React JS, TypeScript, Next JS, Tailwind CSS, Redux Toolkit
 - **Backend**: Node.js, Express.js, TypeScript, Php
 - **Database**: MongoDB, MySQL
 - **Other Technologies**: C++, C, Python, Git, Render, Hostinger, Netlify
@@ -54,7 +54,7 @@ Throughout my career, I have worked with a variety of technologies, including bu
 Here are some of the projects I've worked on:
 
 1. **Portfolio Website**
-   - Description: My personal portfolio showcasing my skills, projects, and achievements.
+   - Description: My portfolio showcase my skills, projects, and achievements.
    - Repository: [Portfolio Repository](https://github.com/vikashkrdeveloper/portfolio.github.io.git)
 
 2. **Coding Contest Platform**
