@@ -81,10 +81,13 @@ Here are some of the projects I've worked on:
    - Description: An e-commerce application for buying and selling products online.
    - Repository: [E-commerce App Repository](https://github.com/vikashkrdeveloper/fullstack-ecommerceapp-algocoretech.git)
 
+8. **Sales-Analyzer**
+   - Description: A sales-analyzer application for the analysis of buying and selling products.
+   - Repository: [Sales_Analyzer Repository](https://github.com/vikashkrdeveloper/Sales-Analyzer.git)
 
 ## Collaboration
 
-I'm open to collaborating on projects involving new and emerging technologies, particularly in the fields of AI/ML, web development, and innovative applications. If you have an exciting project or idea you'd like to collaborate on, feel free to reach out!
+I'm open to collaborating on projects involving new and emerging technologies, particularly in AI/ML, web development, and innovative applications. Feel free to reach out if you have an exciting project or idea you'd like to collaborate on!
 
 ## Contact Me
 
@@ -92,7 +95,7 @@ I'm open to collaborating on projects involving new and emerging technologies, p
 - **LinkedIn**: [Vikash Kumar](https://www.linkedin.com/in/vikash-kumar-8467b0253/)
 - **Portfolio**: [Portfolio Website](https://easylearnvikash.tech)
 
-Feel free to connect with me on LinkedIn or drop me an email if you'd like to discuss collaboration opportunities, share ideas, or simply connect!
+Feel free to connect with me on LinkedIn or email me if you'd like to discuss collaboration opportunities, share ideas, or simply connect!
 
 ## License
 
