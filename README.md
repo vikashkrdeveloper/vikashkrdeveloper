@@ -46,8 +46,9 @@ Throughout my career, I have worked with a variety of technologies, including bu
 
 - **Frontend**: HTML, CSS, JavaScript, React JS, TypeScript, Next JS, Tailwind CSS, Redux Toolkit, Socket IO 
 - **Backend**: Node.js, Express.js, TypeScript, Php, Socket IO
+- **OS**: Windows, Linux
 - **Database**: MongoDB, MySQL
-- **Other Technologies**: C++, C, Python, Java, Git, Render, Hostinger, Netlify
+- **Other Technologies**: C++, C, Python, Java, Git, Render, AWS, Hostinger, Netlify
 
 ## Projects
 
