@@ -10,7 +10,7 @@
 --->
 # Vikash Kumar - Full Stack Developer
 
-Welcome to my GitHub repository! I'm Vikash Kumar, a passionate full-stack developer with a keen interest in coding, exploring new innovative ideas, and various technologies. Currently, I'm diving deep into the fascinating realms of Artificial Intelligence (AI) and Machine Learning (ML) while continuing to enhance my skills as a full-stack developer.
+Welcome to my GitHub repository! I am Vikash Kumar, a dedicated full-stack developer wstroith a ng passion for coding, discovering innovative ideas, and learning about various technologies. Currently, I am focusing on Android development.
 
 ## About Me
 
