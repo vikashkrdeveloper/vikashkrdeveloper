@@ -83,7 +83,7 @@ I'm open to collaborating on projects involving new and emerging technologies, p
 ## Contact Me
 
 - **Email**: vikashjjp728@gmail.com
-- **LinkedIn**: [Vikash Kumar](https://www.linkedin.com/in/vikash-kumar-8467b0253/)
+- **LinkedIn**: [Vikash Kumar](https://www.linkedin.com/in/vikashkrdeveloper/)
 - **Portfolio**: [Portfolio Website](https://vikashkrdeveloper.me)
 
 Feel free to connect with me on LinkedIn or email me if you'd like to discuss collaboration opportunities, share ideas, or simply connect!
