@@ -18,8 +18,8 @@ I thrive on challenges and am always eager to learn and experiment with new tech
 
 ## Interests
 
-- **Coding**: I have a strong passion for coding and enjoy solving complex problems through elegant solutions.
 - **Software Developer:** As an accomplished software developer, I possess strong expertise in frontend web and mobile development, as well as backend systems, utilizing both SQL and NoSQL technologies. My diverse skill set enables me to create seamless and efficient applications.
+- **Coding**: I have a strong passion for coding and enjoy solving complex problems through elegant solutions.
 - **New Innovative Ideas**: I'm constantly exploring new ideas and innovations, looking for ways to apply technology to make a positive impact.
  
 ## Current Focus
