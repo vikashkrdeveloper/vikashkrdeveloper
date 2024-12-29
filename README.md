@@ -10,16 +10,16 @@
 
 # Vikash Kumar - Full Stack Developer
 
-Welcome to my GitHub repository! I am Vikash Kumar, a dedicated full-stack developer wstroith a ng passion for coding, discovering innovative ideas, and learning about various technologies. Currently, I am focusing on Android development.
+Welcome to my GitHub repository! I am Vikash Kumar, a dedicated Software Developer wstroith a passion for coding, discovering innovative ideas, and learning about various technologies. Currently, I am focusing on Android development.
 
 ## About Me
 
-I thrive on challenges and am always eager to learn and experiment with new technologies. My journey as a developer has been incredibly rewarding, and I'm constantly seeking opportunities to collaborate on exciting projects that push the boundaries of innovation.
+I thrive on challenges and am always eager to learn and experiment with new technologies. My development journey has been enriching, and I'm constantly seeking opportunities to collaborate on exciting projects pushing innovation's boundaries.
 
 ## Interests
 
 - **Coding**: I have a strong passion for coding and enjoy solving complex problems through elegant solutions.
-- **Full Stack Development:** I am currently working as a full stack developer, proficient in both frontend and backend technologies.
+- **Software Developer:** I am currently working as a Software Developer, proficient in frontend web and mobile and backend technologies.
 - **New Innovative Ideas**: I'm constantly exploring new ideas and innovations, looking for ways to apply technology to make a positive impact.
  
 ## Current Focus
