@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ... 
 --->
 
-# Vikash Kumar - Full Stack Developer
+# Vikash Kumar -  Software Developer
 
 Welcome to my GitHub repository! I am Vikash Kumar, a dedicated Software Developer wstroith a passion for coding, discovering innovative ideas, and learning about various technologies. Currently, I am focusing on Android development.
 
@@ -19,33 +19,33 @@ I thrive on challenges and am always eager to learn and experiment with new tech
 ## Interests
 
 - **Coding**: I have a strong passion for coding and enjoy solving complex problems through elegant solutions.
-- **Software Developer:** I am currently working as a Software Developer, proficient in frontend web and mobile and backend technologies.
+- **Software Developer:** As an accomplished software developer, I possess strong expertise in frontend web and mobile development, as well as backend systems, utilizing both SQL and NoSQL technologies. My diverse skill set enables me to create seamless and efficient applications.
 - **New Innovative Ideas**: I'm constantly exploring new ideas and innovations, looking for ways to apply technology to make a positive impact.
  
 ## Current Focus
 
-As a full-stack developer, my current focus areas include:
+As a Software Developer, my current focus areas include:
 
-- **Frontend Development**: Mastering modern frontend technologies such as React.js to create intuitive and responsive user interfaces.
-- **Backend Development**: Strengthening my backend skills with Node.js, Express.js, PHP, and other frameworks or libraries to build robust and scalable server-side applications.
-- **Database Management**: Exploring database technologies like MongoDB and MySQL for efficient data storage and retrieval. 
+- **Frontend Development**: Mastering modern frontend technologies such as REACT, NEXT, or REACT Native to create intuitive and responsive user interfaces.
+- **Backend Development**: Strengthening my backend skills with NODE, EXPRESS, PHP, and other frameworks or libraries to build robust and scalable server-side applications.
+- **Database Management**: Exploring database technologies like MongoDB and MySQL for efficient data storage and retrieval.
 
 ## Technologies
 
 Throughout my career, I have worked with a variety of technologies, including but not limited to:
 
-- **Frontend**: HTML, CSS, JavaScript, React JS, TypeScript, Next JS, Tailwind CSS, Redux Toolkit, Socket IO 
-- **Backend**: Node.js, Express.js, TypeScript, Php, Socket IO
+- **Frontend**: HTML, CSS, JavaScript, React JS, TypeScript, Next JS, Tailwind CSS, Redux Toolkit, Socket IO, React Native
+- **Backend**: Node JS, Express JS, TypeScript, Php, Socket IO
 - **OS**: Windows, Linux
 - **Database**: MongoDB, MySQL
-- **Other Technologies**: C++, C, Python, Java, Git, Render, AWS, Hostinger, Netlify
+- **Other Technologies**: C++, C, Python, Java, Git, Render, AWS, Hostinger, Netlify, Docker
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
 1. **Portfolio Website**
-   - Description: My portfolio showcase my skills, projects, and achievements.
+   - Description: My portfolio showcases my skills, projects, and achievements.
    - Repository: [Portfolio Repository](https://github.com/vikashkrdeveloper/portfolio.github.io.git)
 
 2. **Coding Contest Platform**
