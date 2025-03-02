@@ -9,7 +9,7 @@ I thrive on challenges and am always eager to learn and experiment with new tech
 <!-- ## Interests
 
 - **Software Development:** I'm passionate about software development, with a strong focus on frontend web and mobile development, as well as backend systems, utilizing both SQL and NoSQL technologies. My diverse skill set enables me to create seamless and efficient applications.
-- **Coding**: I have a strong passion for coding and enjoy solving complex problems through elegant solutions.
+- **Coding**: I am passionate about coding and enjoy solving complex problems through elegant solutions.
 - **Innovation**: I'm constantly exploring new ideas and innovations, looking for ways to apply technology to make a positive impact. -->
 
 ## Chart of My GitHub Activity
