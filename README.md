@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Vikash Kumar, a dedicated Software Developer w
 <!-- 
 ## About Me 
 
-I thrive on challenges and am always eager to learn and experiment with new technologies. Throughout my development journey, I've been driven by a passion for innovation and have consistently sought out opportunities to collaborate on exciting projects that push the boundaries of what's possible. -->
+I thrive on challenges and am always eager to learn and experiment with new technologies. Throughout my development journey, I've been driven by a passion for innovation and have consistently sought out opportunities to collaborate on exciting projects that push the boundaries of what's possible. --> 
 
 <!-- ## Interests
 
