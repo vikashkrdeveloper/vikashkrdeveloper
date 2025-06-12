@@ -3,11 +3,10 @@
 Welcome to my GitHub profile! I'm Vikash Kumar, a dedicated Software Developer with a strong enthusiasm for coding, innovation, and technology exploration. My current focus is on web and mobile development, backend systems, and database management. I'm always eager to learn about emerging technologies and collaborate on exciting projects.    
 
 <!--  
-## About Me 
-       
+## About Me
 I thrive on challenges and am always eager to learn and experiment with new technologies. Throughout my development journey, I've been driven by a passion for innovation and have consistently sought out opportunities to collaborate on exciting projects that push the boundaries of what's possible. --> 
    
-<!-- ## Interests 
+<!-- ## Interests
 
 - **Software Development:** I'm passionate about software development, with a strong focus on frontend web and mobile development and backend systems, utilizing both SQL and NoSQL technologies. My diverse skill set enables me to create seamless and efficient applications.
 - **Coding**: I am passionate about coding and enjoy solving complex problems through elegant solutions.
