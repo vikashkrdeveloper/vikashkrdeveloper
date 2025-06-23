@@ -121,7 +121,9 @@ I specialize in developing **web applications**, **mobile apps**, and scalable *
 - Recognized for innovative problem-solving and effective team collaboration in a high-pressure, time-constrained environment.
  
  **Technologies**: Next JS, Node/Express, MongoDB, Firebase  
+ 
  [![Portfolio Screenshot](./assets/vikaskrdeveloepr.png)](https://testing.devconfig.in)
+ 
 **Demo Link**: [Click here to view](https://testing.devconfig.in/)
 
 ---
@@ -129,8 +131,10 @@ I specialize in developing **web applications**, **mobile apps**, and scalable *
 ### 2. **Sewacity Quick-Ecommerce App**
 
 **Description**: Developed an e-commerce application during my internship, focusing on enhancing user experience and optimizing performance.  
- **Technologies**: Node.js, Express, MongoDB, React  
+ **Technologies**: Node.js, Express, MongoDB, React
+ 
  [![Sewacity Ecommerce](./assets/sewacity.png)](https://sewacity.com/)
+ 
 **Demo Link**: 
 - [Click here to view Quick Ecommerce project](https://sewacity.com)
 - [Click here to view ticket booking project](https://book.sewacity.com)
@@ -145,7 +149,8 @@ I specialize in developing **web applications**, **mobile apps**, and scalable *
 - An implemented end-to-end notification system like *Push Notification*, *In app Notification*, with proper manual and action ringing.
 - Focused on clean UX, performance, and mobile responsiveness.
   
- **Technologies**: React Native, JavaScript, Redux, Firebase,   
+ **Technologies**: React Native, JavaScript, Redux, Firebase.
+
 [![Sewacity Mobile App](./assets/sewacity-mobile-app.png)](https://apps.apple.com/in/app/sewacity/id6737736747)
 [![Sewacity Mobile App](./assets/sewacity-mobile-app1.png)](https://apps.apple.com/in/app/sewacity/id6737736747)
 [![Sewacity Mobile App](./assets/sewacity-mobile-app2.png)](https://apps.apple.com/in/app/sewacity/id6737736747)
@@ -161,8 +166,9 @@ I specialize in developing **web applications**, **mobile apps**, and scalable *
 ### 4. **College Club Portfolio**
 
 **Description**: A full-stack website for the technical club at my college, featuring event management and member profiles.  
- **Technologies**: React, Node.js, MongoDB  
- [![Tech Club Website](./assets/techkshitiz.png)](https://techkshitiz.vercel.app)
+ **Technologies**: React, Node.js, MongoDB
+ 
+[![Tech Club Website](./assets/techkshitiz.png)](https://techkshitiz.vercel.app)
 [![Tech Club Website](./assets/techkshitiz2.png)](https://techkshitiz.vercel.app)
 [![Tech Club Website](./assets/techkshitiz3.png)](https://techkshitiz.vercel.app)
 [![Tech Club Website](./assets/techkshitiz1.png)](https://techkshitiz.vercel.app)
