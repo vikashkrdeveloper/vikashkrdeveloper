@@ -137,10 +137,15 @@ I specialize in developing **web applications**, **mobile apps**, and scalable *
 
 ---
 
-### 3. **Sewacity E-commerce Mobile User App**
+### 3. **Food Delivery System (Mobile App)**
 
-**Description**: A cross-platform React Native app for Sewacity, focusing on a seamless user experience for mobile users.  
- **Technologies**: React Native, JavaScript, Redux  
+**Description**: 
+- Designed and developed a full-stack food delivery solution with real-time order tracking, cart management, and user authentication.
+- Created both mobile **Android** and **IOS** app using *REACT NATIVE* cross, platform for end-to-end order placement, delivery management, and restaurant panel control.
+- An implemented end-to-end notification system like *Push Notification*, *In app Notification*, with proper manual and action ringing.
+- Focused on clean UX, performance, and mobile responsiveness.
+  
+ **Technologies**: React Native, JavaScript, Redux, Firebase,   
 [![Sewacity Mobile App](./assets/sewacity-mobile-app.png)](https://apps.apple.com/in/app/sewacity/id6737736747)
 [![Sewacity Mobile App](./assets/sewacity-mobile-app1.png)](https://apps.apple.com/in/app/sewacity/id6737736747)
 [![Sewacity Mobile App](./assets/sewacity-mobile-app2.png)](https://apps.apple.com/in/app/sewacity/id6737736747)
