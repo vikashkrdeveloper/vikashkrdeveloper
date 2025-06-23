@@ -1,16 +1,6 @@
-# Vikash Kumar - Software Developer
+**Hi, I'm Vikash — Software Developer**
 
-Welcome to my GitHub profile! I'm Vikash Kumar, a dedicated Software Developer with a strong enthusiasm for coding, innovation, and technology exploration. My current focus is on web and mobile development, backend systems, and database management. I'm always eager to learn about emerging technologies and collaborate on exciting projects.    
- 
-<!--
-## About Me
-I thrive on challenges and am always eager to learn and experiment with new technologies. Throughout my development journey, I've been driven by a passion for innovation and have consistently sought out opportunities to collaborate on exciting projects that push the boundaries of what's possible. --> 
-   
-<!-- ## Interests
-
-- **Software Development:** I'm passionate about software development, with a strong focus on frontend web and mobile development and backend systems, utilizing both SQL and NoSQL technologies. My diverse skill set enables me to create seamless and efficient applications.
-- **Coding**: I am passionate about coding and enjoy solving complex problems through elegant solutions.
-- **Innovation**: I'm constantly exploring new ideas and innovations, looking for ways to apply technology to make a positive impact. -->
+I specialize in developing **web applications**, **mobile apps**, and scalable **backend systems**. I have hands-on experience with **databases**, **cloud technologies**, and a growing passion for integrating **AI solutions** into real-world projects. While I understand design fundamentals, my core strength lies in building efficient, tech-driven systems. I’m always exploring new technologies and pushing boundaries to innovate.
 
 ## Chart of My GitHub Activity
 
@@ -118,27 +108,21 @@ I thrive on challenges and am always eager to learn and experiment with new tech
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine%20learning&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
 [![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0F9D58?style=for-the-badge&logo=artificial%20intelligence&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
-<!-- ## Current Focus
-
-As a Software Developer, my current focus areas include:
-
-- **Web Development**: Mastering modern web technologies such as REACT, NEXT, or REACT Native to create intuitive and responsive user interfaces.
-- **Backend Development**: Strengthening my backend skills with NODE, EXPRESS, PHP, and other frameworks or libraries to build robust and scalable server-side applications.
-- **Database Management**: Exploring database technologies like MongoDB and MySQL for efficient data storage and retrieval.
-- **Mobile App Development**: Learning more about mobile app development with REACT Native to create cross-platform applications for Android and iOS.
-- **DevOps**: Exploring DevOps practices and tools to streamline the development process and improve deployment efficiency.
-- **Data Structures and Algorithms**: Enhancing my problem-solving skills through practice and study of data structures and algorithms. -->
-
 ---
 
 ## Projects
 
-### 1. **Portfolio Website**
+### 1. **Contest Management System (like TCS NQT Platform)**
 
-**Description**: My personal portfolio to showcase my skills, projects, and achievements.  
- **Technologies**: HTML, CSS, JavaScript, React (optional)  
- [![Portfolio Screenshot](./assets/vikaskrdeveloepr.png)](https://www.vikashkrdeveloper.me)
-**Demo Link**: [View My Portfolio](https://www.vikashkrdeveloper.me)
+**Description**: 
+- Developed a robust system capable of handling large-scale contests with thousands of users and auto-assigned computers.
+- Implemented automated participant seating logic, user verification, and test workflows to simulate real exam environments.
+- Designed for scalability, with potential to serve institutions and competitive exam bodies. Government Engineering College, Siwan – Jan 2024.
+- Recognized for innovative problem-solving and effective team collaboration in a high-pressure, time-constrained environment.
+ 
+ **Technologies**: Next JS, Node/Express, MongoDB, Firebase  
+ [![Portfolio Screenshot](./assets/vikaskrdeveloepr.png)](https://testing.devconfig.in)
+**Demo Link**: [Click here to view](https://testing.devconfig.in/)
 
 ---
 
@@ -147,7 +131,9 @@ As a Software Developer, my current focus areas include:
 **Description**: Developed an e-commerce application during my internship, focusing on enhancing user experience and optimizing performance.  
  **Technologies**: Node.js, Express, MongoDB, React  
  [![Sewacity Ecommerce](./assets/sewacity.png)](https://sewacity.com/)
-**Demo Link**: [View this project](https://sewacity.com/)
+**Demo Link**: 
+- [Click here to view Quick Ecommerce project](https://sewacity.com)
+- [Click here to view ticket booking project](https://book.sewacity.com)
 
 ---
 
@@ -159,21 +145,15 @@ As a Software Developer, my current focus areas include:
 [![Sewacity Mobile App](./assets/sewacity-mobile-app1.png)](https://apps.apple.com/in/app/sewacity/id6737736747)
 [![Sewacity Mobile App](./assets/sewacity-mobile-app2.png)](https://apps.apple.com/in/app/sewacity/id6737736747)
 [![Sewacity Mobile App](./assets/sewacity-mobile-app3.png)](https://apps.apple.com/in/app/sewacity/id6737736747)  
-**Demo Link**: [View this project](https://apps.apple.com/in/app/sewacity/id6737736747)
+
+**Demo Link**: 
+- [Click here to view in android](https://play.google.com/store/apps/details?id=com.sewacity.sewacity)
+- [Click here to view in IOS](https://apps.apple.com/in/app/sewacity/id6737736747)
+
 
 ---
 
-### 4. **Coding Contest Platform**
-
-**Description**: A platform designed for hosting online coding contests for my college, enabling students to participate in challenges and competitions.  
- **Technologies**: Node.js, Express, MongoDB, WebSocket  
- [![Coding Contest Platform](https://example.com/coding-contest-image.png)](https://example-demo-link.com)
-**Demo Link**: [View this project](https://example-demo-link.com)  
- **Repository**: [Code Editor Repository](https://github.com/vikashkrdeveloper/Online-Test-Website-1.1.git)
-
----
-
-### 5. **College Technical Club Fullstack Site**
+### 4. **College Club Portfolio**
 
 **Description**: A full-stack website for the technical club at my college, featuring event management and member profiles.  
  **Technologies**: React, Node.js, MongoDB  
@@ -185,67 +165,10 @@ As a Software Developer, my current focus areas include:
 
 ---
 
-### 6. **Social Media App**
-
-**Description**: A social media platform that allows users to connect, share content, and interact with each other.  
- **Technologies**: React, Node.js, MongoDB, JWT, Socket.io  
- [![Social Media App](https://example.com/social-media-image.png)](https://example-demo-link.com)
-**Demo Link**: [View this project](https://example-demo-link.com)  
- **Repository**: [Social Media App Repository](https://github.com/vikashkrdeveloper/algocoretech.socialmedia.mern.project.git)
-
----
-
-### 7. **CRUD Operations**
-
-**Description**: A web app for performing CRUD operations on a database, demonstrating core web development skills.  
- **Technologies**: React, Node.js, MongoDB  
- [![CRUD Operations](https://example.com/crud-operations-image.png)](https://example-demo-link.com)
-**Demo Link**: [View this project](https://example-demo-link.com)  
- **Repository**: [CRUD Operations Repository](https://github.com/vikashkrdeveloper/curdoperation.git)
-
----
-
-### 8. **Polling Booth**
-
-**Description**: An online polling platform for conducting surveys and collecting user responses.  
- **Technologies**: React, Node.js, MongoDB  
- [![Polling Booth](https://example.com/polling-booth-image.png)](https://example-demo-link.com)
-**Demo Link**: [View this project](https://example-demo-link.com)  
- **Repository**: [Polling Booth Repository](https://github.com/vikashkrdeveloper/PollingBoothTwo.git)
-
----
-
-### 9. **E-commerce App**
-
-**Description**: An e-commerce application designed for buying and selling products online, built with a full-stack architecture.  
- **Technologies**: React, Node.js, MongoDB, Stripe  
- [![E-commerce App](https://example.com/ecommerce-image.png)](https://example-demo-link.com)
-**Demo Link**: [View this project](https://example-demo-link.com)  
- **Repository**: [E-commerce App Repository](https://github.com/vikashkrdeveloper/fullstack-ecommerceapp-algocoretech.git)
-
----
-
-### 10. **Sales-Analyzer**
-
-**Description**: A sales analyzer application designed to visualize and analyze sales data for better business insights.  
- **Technologies**: React, D3.js, Chart.js  
- [![Sales Analyzer](https://example.com/sales-analyzer-image.png)](https://sales-analyzer.vercel.app/)
-**Demo Link**: [View this project](https://sales-analyzer.vercel.app/)  
- **Repository**: [Sales_Analyzer Repository](https://github.com/vikashkrdeveloper/Sales-Analyzer.git)
-
----
-
 ## Collaboration
 
 I'm eager to explore collaboration opportunities on projects that leverage cutting-edge technologies, especially in the fields of AI/ML, web development, and creative applications. Don't hesitate to contact me if you have an interesting project or concept you'd like to work on together!
 
-<!-- ## Contact Me
-
-- **Email**: vikashjjp728@gmail.com
-- **LinkedIn**: [Vikash Kumar](https://www.linkedin.com/in/vikashkrdeveloper/)
-- **Portfolio**: [Portfolio Website](https://vikashkrdeveloper.me)
-- **GitHub**: [GitHub Profile](https://github.com/vikashkrdeveloper)
-- **Instagram**: [Instagram Profile](https://www.instagram.com/vikashkrdeveloper/) -->
 
 ## 🚀 Connect with Me:
 
@@ -256,13 +179,3 @@ I'm eager to explore collaboration opportunities on projects that leverage cutti
 [![GitHub](https://img.shields.io/badge/GitHub-vikashkrdeveloper-black?style=for-the-badge&logo=github)](https://github.com/vikashkrdeveloper)
 [![Email](https://img.shields.io/badge/Email-VikashKumar-red?style=for-the-badge&logo=gmail)](mailto:vik.fstkdvpro@gmail.com)
 
-I'm always open to connecting with like-minded individuals! Whether you want to discuss potential collaborations, exchange ideas, or just get in touch, feel free to reach out. You can find me on LinkedIn, email, or GitHub. I'm happy to assist with any questions or project inquiries you may have.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md), allowing you to use, modify, and distribute the code as needed.
-
-<!---
-vikashkrdeveloper/vikashkrdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
