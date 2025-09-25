@@ -22,7 +22,7 @@ I specialize in developing **web applications**, **mobile apps**, and scalable *
 
 ![Vikash Kumar's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vikashkrdeveloper&theme=radical)
 
-## 📈 Profile Stats
+## 📈 Profile Stats.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vikashkrdeveloper&label=Profile+Views&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/vikashkrdeveloper?label=Followers&style=social)
