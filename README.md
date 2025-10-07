@@ -178,7 +178,7 @@ I specialize in developing **web applications**, **mobile apps**, and scalable *
 
 ## Collaboration
 
-I'm eager to explore collaboration opportunities on projects that leverage cutting-edge technologies, especially in the fields of AI/ML, web development, and creative applications. Don't hesitate to contact me if you have an interesting project or concept you'd like to work on together!
+I'm eager to explore collaboration opportunities on projects that leverage cutting-edge technologies, especially in the fields of AI/ML, web development, and creative applications. Don't hesitate to contact me if you have an interesting project or concept you'd like to work on together!  
 
 
 ## 🚀 Connect with Me:
