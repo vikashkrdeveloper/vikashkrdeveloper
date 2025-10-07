@@ -1,6 +1,6 @@
 ## **Hi, I'm Vikash - Software Developer** 
  
-I specialize in developing **web applications**, **mobile apps**, and scalable **backend systems**. I have hands-on experience with **databases**, **cloud technologies**, and a growing passion for integrating **AI solutions** into real-world projects. While I understand design fundamentals, my core strength lies in building efficient, tech-driven systems. I’m always exploring new technologies and pushing boundaries to innovate.
+I specialize in developing **web applications**, **mobile apps**, and scalable **backend systems**. I have hands-on experience with **databases**, **cloud technologies**, and a growing passion for integrating **AI solutions** into real-world projects. While I understand design fundamentals, my core strength lies in building efficient, tech-driven systems. I’m always exploring new technologies and pushing boundaries to innovate. 
  
 ## Chart of My GitHub Activity
 
