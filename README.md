@@ -3,8 +3,9 @@
 I specialize in developing **web applications**, **mobile apps**, and scalable **backend systems**. I have hands-on experience with **databases**, **cloud technologies**, and a growing passion for integrating **AI solutions** into real-world projects. While I understand design fundamentals, my core strength lies in building efficient, tech-driven systems. I’m always exploring new technologies and pushing boundaries to innovate. 
 
 ## Chart of My GitHub Activity
+
 ![Vikash Kumar's GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=vikashkrdeveloper&theme=react-dark)
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 ![Vikash Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikashkrdeveloper&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
