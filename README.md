@@ -25,7 +25,7 @@
 const vikash: Engineer = {
   name        : "Vikash Kumar",
   role        : "AI-Native Full Stack Engineer - SDE-1 Aspirant",
-  education   : "B.Tech CSE-IoT @ GEC Siwan, Bihar | Oct 2022 – May 2026 | CGPA: 7.27",
+  education   : "B.Tech CSE-IoT @GEC Siwan, Bihar | Oct 2022 – May 2026 | CGPA: 7.27",
   available   : true,
   phone       : "+91 736-288-5182",
   targeting   : ["SDE-1", "Full Stack", "React Native", "Backend", "AI-Integration"],
@@ -53,7 +53,7 @@ const vikash: Engineer = {
 
   dsa         : "600+ problems | C++ | LeetCode + GeeksforGeeks + Codeforces",
   hackathons  : ["IIT BHU Shilp'24 - 2nd Place (50+ teams)", "TechKshitiz GEC Siwan - 1st Place"],
-  leadership  : "Technical Team Lead @ TechKshitiz, GEC Siwan - 20 months",
+  leadership  : "Technical Team Lead @TechKshitiz, GEC Siwan - 20 months",
   vision      : "SDE-1 → Senior Engineer → CTO / Technical Co-Founder",
 };
 ```
@@ -360,7 +360,7 @@ Open-source file storage API on MongoDB GridFS. Store, stream, and manage large 
 ```
   Problem → Decompose → Data Model → API Contract → Security Layer → Fault Paths → Ship
 
-  Real example @ Sewacity - Razorpay Webhook Reliability
+  Real example @Sewacity - Razorpay Webhook Reliability
   ──────────────────────────────────────────────────────
   Problem  : Payment status inconsistency - client-side verification unreliable
   Root     : No idempotency, no retry on failures, no reconciliation job
