@@ -1,23 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,f0a940&height=220&section=header&text=Vikash%20Kumar&fontSize=52&fontColor=f0a940&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%94%20Production%20Systems%20%7C%20MERN%20%7C%20React%20Native%20%7C%20AWS&descAlignY=56&descSize=15&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,f0a940&height=210&section=header&text=Vikash%20Kumar&fontSize=50&fontColor=f0a940&animation=fadeIn&fontAlignY=35&desc=AI-Native%20Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20React%20Native%20%7C%20MCP%20%7C%20AWS&descAlignY=55&descSize=14&descColor=aaaaaa" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=900&color=F0A940&center=true&vCenter=true&repeat=true&width=800&lines=Shipped+production+systems+to+10K%2B+users+%40+Sewacity+Technologies;React+Native+%7C+Next.js+%7C+Node.js+%7C+Docker+%7C+AWS+%7C+MCP+%2F+AI;2%2C132+GitHub+contributions+%E2%80%94+consistent%2C+daily+engineering;IIT+BHU+Hackathon+2nd+Place+%7C+TechKshitiz+1st+Place%2C+GEC+Siwan;Building+toward+CTO+%E2%80%94+Available+for+SDE-1+%2F+Full+Stack+roles" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=800&color=F0A940&center=true&vCenter=true&repeat=true&width=800&lines=AI-Native+Engineer+%7C+MCP+Protocol+%7C+LLM-Driven+Product+Features;Shipped+to+10K%2B+users+%40+Sewacity+Technologies+(Play+Store+%7C+Web);React+Native+%7C+Next.js+%7C+Node.js+%7C+Docker+%7C+AWS+%7C+Redis;2%2C132+GitHub+contributions+in+the+last+year;IIT+BHU+Hackathon+2nd+%7C+TechKshitiz+1st+%7C+SDE-1+Available+Now" alt="typing" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vikashkrdeveloper.vercel.app-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=111111)](https://vikashkrdeveloper.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111)](https://linkedin.com/in/vikashkrdeveloper)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=111111)](https://leetcode.com/u/vikashkrdeveloper)&nbsp;
-[![Email](https://img.shields.io/badge/Hire%20Me-vikash.sde.cseiot%40gmail.com-f0a940?style=flat-square&logo=gmail&logoColor=white&labelColor=111111)](mailto:vikash.sde.cseiot@gmail.com)&nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&labelColor=111111)](https://codeforces.com/profile/vikashkrdeveloper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vikashkrdeveloper.vercel.app-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://vikashkrdeveloper.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikashkrdeveloper-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vikashkrdeveloper)
+[![Play Store](https://img.shields.io/badge/Play%20Store-Sewacity%20App-3DDC84?style=flat-square&logo=googleplay&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.sewacity.sewacity)
+[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/u/vikashkrdeveloper)
+[![Email](https://img.shields.io/badge/Hire%20Me-vikash.sde.cseiot%40gmail.com-f0a940?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vikash.sde.cseiot@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=vikashkrdeveloper&style=flat-square&color=f0a940&label=Profile+Views&labelColor=111111"/>
-&nbsp;<img src="https://img.shields.io/github/followers/vikashkrdeveloper?style=flat-square&color=f0a940&labelColor=111111&label=GitHub+Followers"/>
+<img src="https://komarev.com/ghpvc/?username=vikashkrdeveloper&style=flat-square&color=f0a940&label=Profile+Views&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/vikashkrdeveloper?style=flat-square&color=f0a940&labelColor=0d1117&label=Followers"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -26,83 +24,115 @@
 ```typescript
 const vikash: Engineer = {
   name        : "Vikash Kumar",
-  role        : "Full Stack Engineer — SDE-1 Aspirant",
-  education   : "B.Tech CSE-IoT @ GEC Siwan, Bihar  |  Oct 2022 – May 2026  |  CGPA: 7.27",
+  role        : "AI-Native Full Stack Engineer - SDE-1 Aspirant",
+  education   : "B.Tech CSE-IoT @ GEC Siwan, Bihar | Oct 2022 – May 2026 | CGPA: 7.27",
   available   : true,
-  targeting   : ["SDE-1", "Full Stack Developer", "React Native Developer", "Backend Engineer"],
+  phone       : "+91 736-288-5182",
+  targeting   : ["SDE-1", "Full Stack", "React Native", "Backend", "AI-Integration"],
 
-  production  : {
+  production : {
     company      : "Sewacity Technologies Pvt Ltd",
     users        : "10,000+",
     transactions : "2,000+ / month",
+    playStore    : "https://play.google.com/store/apps/details?id=com.sewacity.sewacity",
     reliability  : "+40% payment success via Razorpay webhook orchestration",
     growth       : "+36% order growth via latency-optimized REST APIs",
-    security     : "-60% unauthorized access via JWT/RBAC + rate limiting + DDoS safeguards",
+    security     : "-60% unauthorized access via JWT/RBAC + rate limiting + DDoS",
+    failures     : "-30% payment failures via retry logic + reconciliation",
   },
 
   stack : {
-    languages  : ["TypeScript", "JavaScript", "C++", "SQL", "NoSQL"],
-    frontend   : ["React", "Next.js", "React Native", "Tailwind CSS", "shadcn/ui", "Redux"],
-    backend    : ["Node.js", "Express.js", "REST APIs", "WebSockets", "gRPC", "JWT/RBAC"],
-    database   : ["MongoDB", "Redis", "MySQL", "PostgreSQL", "GridFS"],
+    languages  : ["TypeScript", "JavaScript", "C++", "HTML", "CSS", "SQL", "NoSQL"],
+    frontend   : ["React", "Next.js", "Tailwind CSS", "shadcn/ui", "Redux", "Zustand"],
+    backend    : ["Node.js", "Express.js", "REST APIs", "WebSockets (Socket.io)", "JWT/RBAC"],
+    mobile     : ["React Native", "Expo EAS", "Firebase OTP", "AAB/IPA signing", "TestFlight"],
+    database   : ["MongoDB", "Redis", "MySQL", "PostgreSQL", "Supabase", "GridFS"],
     cloud      : ["AWS EC2/S3/Route53", "Docker", "Kubernetes", "NGINX", "PM2", "CI/CD"],
-    ai         : ["MCP (Model Context Protocol)", "LLM SDK Integration", "ML Inference"],
-    mobile     : ["React Native", "Expo EAS", "Firebase OTP", "Push Notifications"],
+    ai         : ["MCP Protocol", "LLM SDK Integration", "Claude AI", "ChatGPT", "Copilot"],
   },
 
-  dsa         : "600+ problems  |  C++  |  LeetCode + GeeksforGeeks + Codeforces",
-  hackathons  : ["IIT BHU Shilp'24 — 2nd Place", "GEC Siwan TechKshitiz'24 — 1st Place"],
-  leadership  : "Technical Team Lead @ TechKshitiz, GEC Siwan — 20 months",
-  vision      : "SDE-1 / Full Stack role → 1-2 yrs industry → CTO at early-stage startup",
+  dsa         : "600+ problems | C++ | LeetCode + GeeksforGeeks + Codeforces",
+  hackathons  : ["IIT BHU Shilp'24 - 2nd Place (50+ teams)", "TechKshitiz GEC Siwan - 1st Place"],
+  leadership  : "Technical Team Lead @ TechKshitiz, GEC Siwan - 20 months",
+  vision      : "SDE-1 → Senior Engineer → CTO / Technical Co-Founder",
 };
 ```
 
 ---
 
-## Production Impact — Sewacity Technologies
+## AI-Native Engineering
+
+> **Not a chatbot wrapper.** Real architectural integration of AI and LLM reasoning into production systems via MCP Protocol - the same pattern powering Claude, Cursor, and next-gen AI tooling.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/10K%2B-Users%20Served-f0a940?style=for-the-badge&labelColor=0d1117"/>
-<br/><sub>Web platform + mobile app</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2K%2B-Monthly%20Transactions-f0a940?style=for-the-badge&labelColor=0d1117"/>
-<br/><sub>Razorpay payment pipeline</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/%2B40%25-Payment%20Reliability-22c55e?style=for-the-badge&labelColor=0d1117"/>
-<br/><sub>Webhook orchestration + retry logic</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/%2B36%25-Order%20Growth-22c55e?style=for-the-badge&labelColor=0d1117"/>
-<br/><sub>Latency-optimized REST APIs</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/-60%25-Unauthorized%20Access-3b82f6?style=for-the-badge&labelColor=0d1117"/>
-<br/><sub>JWT/RBAC + rate limiting + DDoS</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/-30%25-Payment%20Failures-3b82f6?style=for-the-badge&labelColor=0d1117"/>
-<br/><sub>Failure reconciliation layer</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/100%25-Transaction%20Integrity-a855f7?style=for-the-badge&labelColor=0d1117"/>
-<br/><sub>Server-side Razorpay verification</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/2%2C132-GitHub%20Contributions-f0a940?style=for-the-badge&labelColor=0d1117"/>
-<br/><sub>Last 12 months</sub>
-</td>
-</tr>
-</table>
+```
+  User Input  →  LLM (Claude/GPT)  →  MCP Protocol  →  Tools / APIs / DB / IoT  →  Result
+      │                │                    │                     │                     │
+   Natural         Reasoning            JSON-RPC 2.0         MongoDB • Redis        Structured
+   language        over live            Tool contracts        RFID • REST             output back
+   prompt          context              (Host→Client→Server)  Sensors • GridFS       to product UI
+```
 
 </div>
+
+**My AI Integration Stack**
+
+[![Claude](https://img.shields.io/badge/Claude%20AI-CC785C?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117)](https://anthropic.com)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117)](https://openai.com)
+[![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://copilot.github.com)
+[![MCP](https://img.shields.io/badge/MCP%20Protocol-f0a940?style=flat-square&labelColor=0d1117)](https://modelcontextprotocol.io)
+[![Antigravity](https://img.shields.io/badge/Antigravity%20AI%20Editor-7c3aed?style=flat-square&labelColor=0d1117)](#)
+
+**How I use each tool in my actual workflow:**
+
+- **Claude AI** - architecture decisions, writing technical documentation, code review, system design walkthroughs, and MCP server implementation. I don't use it to write code blindly - I use it to think through design tradeoffs before touching the keyboard.
+- **ChatGPT** - quick syntax fixes, exploring multiple approaches to the same problem, rubber-duck debugging on unfamiliar APIs, generating test cases.
+- **GitHub Copilot** - in-editor code completion, reducing boilerplate in repetitive patterns (route handlers, schema definitions), and surfacing API signatures mid-flow.
+- **Antigravity AI Editor** - AI-native editor for faster development loops with embedded LLM assistance.
+
+**MCP in production (Academic Management System):**
+
+```typescript
+// MCP Server: academic-intelligence
+// Architecture: Host (Claude) → MCP Client → MCP Server → MongoDB + RFID sensors
+// Transport: JSON-RPC 2.0 over stdio
+
+const tools = [
+  {
+    name: "get_student_recommendations",
+    // LLM receives live student context → reasons → returns structured suggestions
+    // Zero prompt leakage. Typed contracts. Auditable tool calls.
+  },
+  {
+    name: "analyze_performance_patterns",
+    // Connects LLM reasoning to MongoDB aggregation pipelines directly
+  }
+];
+// Result: AI-powered personalized resource recommendations running in production
+// User → LLM → MCP → MongoDB + RFID → Personalized response
+```
+
+---
+
+## Production Impact - Sewacity Technologies
+
+<div align="center">
+
+| Metric | Result | How |
+|--------|--------|-----|
+| Users Served | **10,000+** | Web platform + React Native app (Play Store) |
+| Monthly Transactions | **2,000+** | Razorpay payment pipeline |
+| Payment Reliability | **+40%** | Webhook orchestration + retry logic + idempotency |
+| Order Growth | **+36%** | Latency-optimized REST APIs + geo-aware backend |
+| Unauthorized Access | **-60%** | JWT/RBAC + rate limiting + DDoS safeguards |
+| Payment Failures | **-30%** | Failure reconciliation layer + dead-letter logging |
+| Transaction Integrity | **100%** | Server-side Razorpay HMAC-SHA256 verification |
+| GitHub Contributions | **2,132** | Last 12 months - consistent daily engineering |
+
+</div>
+
+[![Sewacity App](https://img.shields.io/badge/Live%20on%20Play%20Store-Sewacity%20App-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.sewacity.sewacity)
 
 ---
 
@@ -110,167 +140,115 @@ const vikash: Engineer = {
 
 <div align="center">
 
-**Core Languages**
+**Languages**
 
-[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org)&nbsp;
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
-[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org/)&nbsp;
-[![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Frontend**
 
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)&nbsp;
-[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)&nbsp;
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com)&nbsp;
-[![Redux](https://skillicons.dev/icons?i=redux&theme=dark)](https://redux.js.org)&nbsp;
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com)
+[![Redux](https://skillicons.dev/icons?i=redux&theme=dark)](https://redux.js.org)
 [![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://vitejs.dev)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://figma.com)
 
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=flat-square&logo=shadcnui&logoColor=white&labelColor=111111)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white&labelColor=111111)
-![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=111111)
-![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-black?style=flat-square&labelColor=111111)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white&labelColor=111111)
-![Accessibility](https://img.shields.io/badge/a11y-005A9C?style=flat-square&logo=w3c&logoColor=white&labelColor=111111)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-white?style=flat-square&logo=shadcnui&logoColor=black&labelColor=0d1117)
+![Zustand](https://img.shields.io/badge/Zustand-f0a940?style=flat-square&labelColor=0d1117)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white&labelColor=0d1117)
+![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117)
+![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-black?style=flat-square&labelColor=0d1117)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white&labelColor=0d1117)
+![a11y](https://img.shields.io/badge/Accessibility%20a11y-005A9C?style=flat-square&logo=w3c&logoColor=white&labelColor=0d1117)
+![Debouncing](https://img.shields.io/badge/Debouncing%20%2F%20Pagination-gray?style=flat-square&labelColor=0d1117)
+![Infinite Scroll](https://img.shields.io/badge/Infinite%20Scroll-gray?style=flat-square&labelColor=0d1117)
 
 **Backend**
 
-[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)&nbsp;
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
 [![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com)
 
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B35?style=flat-square&labelColor=111111)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white&labelColor=111111)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&labelColor=111111)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=111111)
-![RBAC](https://img.shields.io/badge/RBAC%20Auth-f0a940?style=flat-square&labelColor=111111)
-![Razorpay](https://img.shields.io/badge/Razorpay%20Webhooks-02042B?style=flat-square&logo=razorpay&logoColor=white&labelColor=111111)
-![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-ef4444?style=flat-square&labelColor=111111)
-![Event-Driven](https://img.shields.io/badge/Event--Driven%20Arch-7c3aed?style=flat-square&labelColor=111111)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B35?style=flat-square&labelColor=0d1117)
+![WebSockets](https://img.shields.io/badge/Socket.io%20(WS)-010101?style=flat-square&logo=socketdotio&logoColor=white&labelColor=0d1117)
+![Socket.io Client](https://img.shields.io/badge/Socket.io%20Client-010101?style=flat-square&logo=socketdotio&logoColor=white&labelColor=0d1117)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&labelColor=0d1117)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0d1117)
+![RBAC](https://img.shields.io/badge/RBAC%20Auth-f0a940?style=flat-square&labelColor=0d1117)
+![Razorpay](https://img.shields.io/badge/Razorpay%20Webhooks-02042B?style=flat-square&logo=razorpay&logoColor=white&labelColor=0d1117)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white&labelColor=0d1117)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-ef4444?style=flat-square&labelColor=0d1117)
+![Event-Driven](https://img.shields.io/badge/Event--Driven%20Arch-7c3aed?style=flat-square&labelColor=0d1117)
 
 **Database**
 
-[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://mongodb.com)&nbsp;
-[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io)&nbsp;
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://postgresql.org)&nbsp;
+[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://mongodb.com)
+[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://postgresql.org)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://mysql.com)
+[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com)
+[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://firebase.google.com)
 
-![GridFS](https://img.shields.io/badge/GridFS-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=111111)
-![Schema Design](https://img.shields.io/badge/Schema%20Design-gray?style=flat-square&labelColor=111111)
-![Query Optimization](https://img.shields.io/badge/Query%20Optimization-gray?style=flat-square&labelColor=111111)
+![GridFS](https://img.shields.io/badge/MongoDB%20GridFS-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117)
+![Schema Design](https://img.shields.io/badge/Schema%20Design-gray?style=flat-square&labelColor=0d1117)
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-gray?style=flat-square&labelColor=0d1117)
+
+**Mobile (React Native)**
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117)
+![Expo EAS](https://img.shields.io/badge/Expo%20EAS-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0d1117)
+![Expo Dev Tools](https://img.shields.io/badge/Expo%20Dev%20Tools-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0d1117)
+![Expo Debugger](https://img.shields.io/badge/Expo%20Debugger-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0d1117)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white&labelColor=0d1117)
+![iOS Simulator](https://img.shields.io/badge/iOS%20Simulator-000000?style=flat-square&logo=apple&logoColor=white&labelColor=0d1117)
+![Play Console](https://img.shields.io/badge/Play%20Console%20(AAB%20Signed)-3DDC84?style=flat-square&logo=googleplay&logoColor=white&labelColor=0d1117)
+![Apple Dev Console](https://img.shields.io/badge/Apple%20Dev%20Console%20(IPA)-000000?style=flat-square&logo=apple&logoColor=white&labelColor=0d1117)
+![TestFlight](https://img.shields.io/badge/TestFlight%20Beta-0D96F6?style=flat-square&logo=apple&logoColor=white&labelColor=0d1117)
+![Firebase OTP](https://img.shields.io/badge/Firebase%20OTP-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0d1117)
+![Push Notifications](https://img.shields.io/badge/Push%20Notifications-FF6B35?style=flat-square&labelColor=0d1117)
+![Beta Testing](https://img.shields.io/badge/Beta%20Testing%20(Internal%20%2F%20External)-22c55e?style=flat-square&labelColor=0d1117)
 
 **Cloud, DevOps & Infrastructure**
 
-[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com)&nbsp;
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docker.com)&nbsp;
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)](https://kubernetes.io)&nbsp;
-[![Azure](https://skillicons.dev/icons?i=azure&theme=dark)](https://azure.microsoft.com)&nbsp;
-[![NGINX](https://skillicons.dev/icons?i=nginx&theme=dark)](https://nginx.org)&nbsp;
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://github.com/features/actions)&nbsp;
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://linux.org)&nbsp;
+[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com)
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docker.com)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)](https://kubernetes.io)
+[![Azure](https://skillicons.dev/icons?i=azure&theme=dark)](https://azure.microsoft.com)
+[![NGINX](https://skillicons.dev/icons?i=nginx&theme=dark)](https://nginx.org)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://github.com/features/actions)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://linux.org)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
 
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white&labelColor=111111)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white&labelColor=111111)
-![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white&labelColor=111111)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white&labelColor=111111)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=111111)
-![DDoS Mitigation](https://img.shields.io/badge/DDoS%20Mitigation-ef4444?style=flat-square&labelColor=111111)
+![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white&labelColor=0d1117)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white&labelColor=0d1117)
+![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white&labelColor=0d1117)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white&labelColor=0d1117)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white&labelColor=0d1117)
+![Hostinger VPS](https://img.shields.io/badge/Hostinger%20VPS%20%2F%20DNS-673DE6?style=flat-square&logo=hostinger&logoColor=white&labelColor=0d1117)
+![DDoS](https://img.shields.io/badge/DDoS%20Mitigation-ef4444?style=flat-square&labelColor=0d1117)
 
-**Mobile (React Native + Expo)**
+**Developer & Productivity Tools**
 
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=111111)
-![Expo EAS](https://img.shields.io/badge/Expo%20EAS%20Builds-000020?style=flat-square&logo=expo&logoColor=white&labelColor=111111)
-[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://firebase.google.com)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://figma.com)
+[![Notion](https://skillicons.dev/icons?i=notion&theme=dark)](https://notion.so)
 
-![Firebase OTP](https://img.shields.io/badge/Firebase%20OTP-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=111111)
-![Push Notifications](https://img.shields.io/badge/Push%20Notifications-FF6B35?style=flat-square&labelColor=111111)
-![AAB Signing](https://img.shields.io/badge/AAB%2FIPA%20Signing-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=111111)
-![TestFlight](https://img.shields.io/badge/TestFlight%20Beta-0D96F6?style=flat-square&logo=apple&logoColor=white&labelColor=111111)
-![Play Store](https://img.shields.io/badge/Play%20Store%20Release-3DDC84?style=flat-square&logo=googleplay&logoColor=white&labelColor=111111)
+![Firebase Console](https://img.shields.io/badge/Firebase%20Console-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0d1117)
+![Supabase Console](https://img.shields.io/badge/Supabase%20Console-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0d1117)
+![Google Cloud Console](https://img.shields.io/badge/Google%20Cloud%20Console-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0d1117)
+![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=googlesheets&logoColor=white&labelColor=0d1117)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white&labelColor=0d1117)
+![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white&labelColor=0d1117)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
+![Figma](https://img.shields.io/badge/Figma%20(Design%20to%20Code)-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=0d1117)
 
-**AI & Emerging Tech**
-
-![MCP](https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-CC785C?style=flat-square&logo=anthropic&logoColor=white&labelColor=111111)
-![LLM SDK](https://img.shields.io/badge/LLM%20SDK%20Integration-7c3aed?style=flat-square&labelColor=111111)
-![ML Inference](https://img.shields.io/badge/ML%20Inference%20Pipelines-f0a940?style=flat-square&labelColor=111111)
-![AI Features](https://img.shields.io/badge/LLM--Driven%20Product%20Features-22c55e?style=flat-square&labelColor=111111)
-![Meta CAPI](https://img.shields.io/badge/Meta%20Ads%20%2B%20CAPI-0081FB?style=flat-square&logo=meta&logoColor=white&labelColor=111111)
+> Figma: I read and implement designs, convert component specs to production-ready code. Design creation is not my primary strength - shipping designs as pixel-accurate components is.
 
 </div>
-
----
-
-## Engineering Philosophy
-
-```
-  PROBLEM → APPROACH → RESULT  (How every production task gets handled)
-  ────────────────────────────────────────────────────────────────────
-
-  1. DECOMPOSE      Break the system into bounded service contracts first
-  2. DATA MODEL     Schema and query patterns before writing a single route
-  3. API CONTRACT   Define inputs, outputs, error states — then implement
-  4. SECURITY LAYER JWT/RBAC + rate limiting + input sanitization upfront, not after
-  5. FAULT PATHS    Retry logic, idempotency, failure reconciliation — not optional
-  6. OBSERVABILITY  Structured logging, error boundaries, monitoring hooks
-
-  THEN: Ship → Measure → Iterate
-
-  ─────────────────────────────────────────────────────────────────────
-  Real example @ Sewacity — Razorpay Webhook Reliability Problem
-  ─────────────────────────────────────────────────────────────────────
-  Problem  : Payment status inconsistency — client-side verification unreliable
-  Root     : No idempotency, no retry on failures, no reconciliation job
-  Solution : Server-side signature verification (HMAC-SHA256)
-             + Idempotency key per webhook event
-             + Redis retry queue with exponential backoff
-             + Cron-based failure reconciliation job
-             + Dead-letter log for manual audit trail
-  Result   : +40% transaction success, -30% payment failures, 100% integrity
-```
-
----
-
-## MCP + AI Integration in Production
-
-```typescript
-/**
- * MCP (Model Context Protocol) — How I connect LLM reasoning to live systems
- *
- * Architecture: Host (Claude/Cursor) → MCP Client → MCP Server → Real Data
- * Transport:    JSON-RPC 2.0 over stdio or HTTP+SSE
- * My use case:  Academic Management System — LLM-powered resource recommendations
- */
-
-// MCP Server definition (Academic System)
-const academicMCPServer = {
-  name: "academic-intelligence",
-  version: "1.0.0",
-
-  tools: [
-    {
-      name: "get_student_recommendations",
-      description: "Generate personalized academic resource suggestions from live DB",
-      inputSchema: {
-        studentId: "string",
-        courseHistory: "string[]",
-        currentEnrollment: "string[]",
-        performanceTrend: "number" // GPA delta
-      },
-      // LLM receives real student context → reasons over it → returns structured output
-      // Zero prompt leakage, fully typed, auditable
-    },
-    {
-      name: "analyze_performance_patterns",
-      description: "AI-driven trend analysis over academic performance data",
-      // Connects LLM's reasoning capability to MongoDB aggregation pipelines
-    }
-  ]
-};
-
-// Why this matters for your product:
-// MCP lets you ship LLM-driven features with production-grade reliability
-// No brittle prompt parsing — structured tool contracts between model and system
-// I understand the full stack: protocol design → server implementation → UI integration
-```
 
 ---
 
@@ -282,28 +260,32 @@ const academicMCPServer = {
 <tr>
 <td width="50%" valign="top">
 
-**SafeExec — Enterprise RCE Platform**
+**Sewacity Mobile App - iOS + Android**
 
-[![Repo](https://img.shields.io/badge/GitHub-SafeExec-f0a940?style=flat-square&logo=github&labelColor=111111)](https://github.com/vikashkrdeveloper/SafeExec)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=111111)
-![JWT](https://img.shields.io/badge/JWT%20Auth-black?style=flat-square&logo=jsonwebtokens&labelColor=111111)
-![Redis](https://img.shields.io/badge/Redis%20Queue-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=111111)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=111111)
+[![Play Store](https://img.shields.io/badge/Play%20Store-Live%20Production-3DDC84?style=flat-square&logo=googleplay&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.sewacity.sewacity)
+[![TestFlight](https://img.shields.io/badge/iOS-TestFlight%20Beta-0D96F6?style=flat-square&logo=apple&labelColor=0d1117)](https://github.com/vikashkrdeveloper)
 
-Secure open-source Remote Code Execution platform. Every run is isolated in a **Docker container** — no shared state, no escape paths. Redis job queue for scalable throughput. Multi-language support (Python, JS, Java, C++, C#, Go). Swagger UI API docs. Built for exam platforms, hiring tools, and online judges.
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117)
+![Expo EAS](https://img.shields.io/badge/Expo%20EAS-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0d1117)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white&labelColor=0d1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+
+Production React Native app - **10K+ users, 2K+ monthly orders**. Redux state, Firebase OTP auth, server-side Razorpay verification, real-time order tracking, geo-location. Expo EAS builds with AAB signing (Play Store) and IPA distribution (Apple Dev Console + TestFlight).
 
 </td>
 <td width="50%" valign="top">
 
-**Sewacity Mobile App — iOS + Android**
+**SafeExec - Enterprise RCE Platform**
 
-[![Android](https://img.shields.io/badge/Play%20Store-Live-3DDC84?style=flat-square&logo=googleplay&labelColor=111111)](https://github.com/vikashkrdeveloper)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=111111)
-![Expo EAS](https://img.shields.io/badge/Expo%20EAS-000020?style=flat-square&logo=expo&logoColor=white&labelColor=111111)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white&labelColor=111111)
-![Firebase](https://img.shields.io/badge/Firebase%20OTP-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=111111)
+[![GitHub](https://img.shields.io/badge/GitHub-SafeExec-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashkrdeveloper/SafeExec)
 
-Production React Native app serving **10K+ users, 2K+ monthly orders**. Redux state management, Firebase OTP auth, server-side Razorpay verification, real-time order tracking, geo-location services. Deployed via Expo EAS — **App Store (TestFlight)** and **Play Store (AAB release signing)**.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
+![JWT](https://img.shields.io/badge/JWT%20Auth-black?style=flat-square&logo=jsonwebtokens&labelColor=0d1117)
+![Redis](https://img.shields.io/badge/Redis%20Queue-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+
+Secure open-source Remote Code Execution platform. Every execution runs in an **isolated Docker container** - no shared state. Redis job queue for scalable throughput. Multi-language support (Python, JS, Java, C++, C#, Go). Swagger UI docs. Built for exam platforms, hiring tools, online judges.
 
 </td>
 </tr>
@@ -312,26 +294,29 @@ Production React Native app serving **10K+ users, 2K+ monthly orders**. Redux st
 
 **Contest & Event Management Platform**
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-f0a940?style=flat-square&logo=github&labelColor=111111)](https://github.com/vikashkrdeveloper)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=111111)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&labelColor=111111)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=111111)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashkrdeveloper)
 
-Scalable platform for **large-scale contests with 1000+ concurrent users**. Automated seating assignment logic, participant verification, integrated code editor, test workflow simulation. Built for GEC Siwan — architected to scale to institutional exam bodies.
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117)
+
+Built for TechKshitiz, GEC Siwan - ran a **live contest for 300+ students simultaneously** in production. Automated seating assignment, participant verification, integrated code editor, real-time test workflows. Designed to scale to institutional exam bodies.
 
 </td>
 <td width="50%" valign="top">
 
-**Academic & Library Management System**
+**Academic & Library Management System (AI + IoT)**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=111111)](https://github.com/vikashkrdeveloper)
-![MCP AI](https://img.shields.io/badge/MCP%20AI-CC785C?style=flat-square&logo=anthropic&logoColor=white&labelColor=111111)
-![RFID IoT](https://img.shields.io/badge/RFID%20IoT-22c55e?style=flat-square&labelColor=111111)
-![JWT/RBAC](https://img.shields.io/badge/JWT%2FRBAC-black?style=flat-square&logo=jsonwebtokens&labelColor=111111)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=111111)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://github.com/vikashkrdeveloper)
 
-Campus management with **RFID automation**, **MCP-based LLM recommendation engine**, layered RBAC access control, coursework workflows, scheduling engines, and a digital repository. AI-powered academic resource suggestions — aligned with ML inference pipeline patterns.
+![MCP AI](https://img.shields.io/badge/MCP%20AI-CC785C?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117)
+![RFID IoT](https://img.shields.io/badge/RFID%20IoT-22c55e?style=flat-square&labelColor=0d1117)
+![JWT/RBAC](https://img.shields.io/badge/JWT%2FRBAC-black?style=flat-square&logo=jsonwebtokens&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117)
+
+Campus management with **RFID automation**, MCP-based LLM recommendation engine, layered RBAC, coursework workflows, scheduling, and digital repository. Real MCP server implementation connecting LLM reasoning to live MongoDB + IoT sensor data.
 
 </td>
 </tr>
@@ -340,30 +325,52 @@ Campus management with **RFID automation**, **MCP-based LLM recommendation engin
 
 **MongoDB GridFS Bucket System**
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-f0a940?style=flat-square&logo=github&labelColor=111111)](https://github.com/vikashkrdeveloper)
-![MongoDB GridFS](https://img.shields.io/badge/GridFS-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=111111)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=111111)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white&labelColor=111111)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashkrdeveloper)
 
-Developer-friendly open-source file storage API built on MongoDB GridFS. Store, stream, and manage large files via a clean REST interface. Documented, production-ready. Solves the S3-overkill problem for small-to-medium file management use cases.
+![GridFS](https://img.shields.io/badge/GridFS-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white&labelColor=0d1117)
+
+Open-source file storage API on MongoDB GridFS. Store, stream, and manage large files via a clean REST interface. Documented and production-ready. Solves the S3-overkill problem for small-to-medium file management.
 
 </td>
 <td width="50%" valign="top">
 
-**Portfolio v3 — Production-Grade SPA**
+**Portfolio v3 - Production SPA**
 
-[![Live](https://img.shields.io/badge/Live-vikashkrdeveloper.vercel.app-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=111111)](https://vikashkrdeveloper.vercel.app)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=111111)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=111111)
+[![Live](https://img.shields.io/badge/Live-vikashkrdeveloper.vercel.app-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://vikashkrdeveloper.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-vikashkumar-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashkrdeveloper/vikashkumar)
 
-`React.lazy()` code splitting on 13 components. JSON-LD structured data for search indexing. SEO via `react-helmet-async`. Google Search Console verified. Lighthouse-optimized LCP/FCP. Amber design system (`#f0a940`). Branch: `feat/full-portfolio-v3`.
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d1117)
+
+`React.lazy()` on 13 components, JSON-LD structured data, SEO via `react-helmet-async`, Google Search Console verified, Lighthouse-optimized LCP/FCP. Live MCP/AI architecture diagram with animated data flow. Branch: `feat/full-portfolio-v3`.
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
+
+## Engineering Philosophy
+
+```
+  Problem → Decompose → Data Model → API Contract → Security Layer → Fault Paths → Ship
+
+  Real example @ Sewacity - Razorpay Webhook Reliability
+  ──────────────────────────────────────────────────────
+  Problem  : Payment status inconsistency - client-side verification unreliable
+  Root     : No idempotency, no retry on failures, no reconciliation job
+  Solution : Server-side HMAC-SHA256 signature verification
+             + Idempotency key per webhook event
+             + Redis retry queue with exponential backoff
+             + Cron-based failure reconciliation job
+             + Dead-letter log for manual audit trail
+  Result   : +40% transaction success, -30% failures, 100% integrity
+```
 
 ---
 
@@ -396,26 +403,26 @@ Developer-friendly open-source file storage API built on MongoDB GridFS. Store, 
 
 ---
 
-## DSA & Competitive Programming
+## DSA
 
 <div align="center">
 
 <a href="https://leetcode.com/u/vikashkrdeveloper">
-<img src="https://leetcard.jacoblin.cool/vikashkrdeveloper?theme=dark&font=JetBrains%20Mono&ext=contest&width=520&border=0&radius=8" />
+<img src="https://leetcard.jacoblin.cool/vikashkrdeveloper?theme=dark&font=JetBrains%20Mono&ext=contest&width=500&border=0&radius=6" />
 </a>
 
 <br/>
 
-![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=111111)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white&labelColor=111111)
-![Codeforces](https://img.shields.io/badge/Codeforces-C%2B%2B%20Competitive-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&labelColor=111111)
-![Topics](https://img.shields.io/badge/Focus-Arrays%20%7C%20Graphs%20%7C%20DP%20%7C%20Trees%20%7C%20Sliding%20Window-f0a940?style=flat-square&labelColor=111111)
+![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d1117)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white&labelColor=0d1117)
+![Codeforces](https://img.shields.io/badge/Codeforces-C%2B%2B%20Competitive-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-Arrays%20%7C%20Graphs%20%7C%20DP%20%7C%20Trees%20%7C%20Sliding%20Window-f0a940?style=flat-square&labelColor=0d1117)
 
 </div>
 
 ---
 
-## Achievements & Recognition
+## Achievements
 
 <div align="center">
 
@@ -423,11 +430,11 @@ Developer-friendly open-source file storage API built on MongoDB GridFS. Store, 
 <tr>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/IIT%20BHU%20Shilp'24-2nd%20Place-C0C0C0?style=for-the-badge&labelColor=0d1117"/>
-<br/><sub>Competed against 100+ teams — full-stack solution under pressure</sub>
+<br/><sub>50+ competing teams - full-stack solution under time pressure</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/TechKshitiz%2024-1st%20Place-FFD700?style=for-the-badge&labelColor=0d1117"/>
-<br/><sub>GEC Siwan — led and won the hackathon</sub>
+<br/><sub>GEC Siwan - led and won the hackathon</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Tech%20Team%20Lead-20%20Months-f0a940?style=for-the-badge&labelColor=0d1117"/>
@@ -436,13 +443,14 @@ Developer-friendly open-source file storage API built on MongoDB GridFS. Store, 
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/GitHub%20Dev%20Program-Member%20Pro-ffffff?style=for-the-badge&logo=github&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GitHub%20Dev%20Program-Pro%20Member-white?style=for-the-badge&logo=github&labelColor=0d1117"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/2%2C132%20Contributions-Last%2012%20Months-22c55e?style=for-the-badge&labelColor=0d1117"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/600%2B%20DSA-LeetCode%20%2B%20GFG%20%2B%20CF-3b82f6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Hostinger%20VPS-Since%20Sep%202023-673DE6?style=for-the-badge&logo=hostinger&labelColor=0d1117"/>
+<br/><sub>DNS, SSL, production server management</sub>
 </td>
 </tr>
 </table>
@@ -461,27 +469,27 @@ Developer-friendly open-source file storage API built on MongoDB GridFS. Store, 
 
 **Funded Startups (Seed / Series A)**
 
-![Badge](https://img.shields.io/badge/Full%20Stack%20Ownership-f0a940?style=flat-square&labelColor=111111)
+![Badge](https://img.shields.io/badge/Full%20Ownership-f0a940?style=flat-square&labelColor=0d1117)
 
-Move fast without breaking production. I own the full stack — mobile, web, backend, infra. Built systems for 10K+ users as a solo contributor. I don't wait for tickets. I spot bottlenecks and ship.
+Full stack from mobile to infra. Built for 10K+ users as a solo contributor. I don't wait for tickets - I find bottlenecks, scope the fix, and ship. Built for early-stage velocity where every engineer counts.
 
 </td>
 <td width="33%" valign="top">
 
-**MNCs and Large Product Companies**
+**MNCs and Product Companies**
 
-![Badge](https://img.shields.io/badge/Scalable%20Architecture-3b82f6?style=flat-square&labelColor=111111)
+![Badge](https://img.shields.io/badge/Scalable%20Architecture-3b82f6?style=flat-square&labelColor=0d1117)
 
-Security-hardened APIs, event-driven design, fault-tolerant webhook systems. Docker, AWS, CI/CD, NGINX — I've run production infra. Code that survives code review, not just demos.
+Security-hardened APIs, event-driven design, fault-tolerant webhook systems. Docker, AWS, CI/CD, NGINX in production. Strong DSA foundation (600+ problems). Code that survives proper code review.
 
 </td>
 <td width="33%" valign="top">
 
 **AI-First Products**
 
-![Badge](https://img.shields.io/badge/MCP%20%2B%20LLM%20Integration-CC785C?style=flat-square&labelColor=111111)
+![Badge](https://img.shields.io/badge/MCP%20%2B%20AI%20Native-CC785C?style=flat-square&labelColor=0d1117)
 
-I understand the MCP protocol architecture end-to-end — not just "call the OpenAI API." I've built LLM-driven features that run in production, with real data contracts, not brittle prompts.
+I understand MCP protocol architecture end-to-end - not just API calls. I've shipped LLM-driven features in production with real data contracts and typed tool schemas. No brittle prompt hacks.
 
 </td>
 </tr>
@@ -491,38 +499,38 @@ I understand the MCP protocol architecture end-to-end — not just "call the Ope
 
 ---
 
-## Currently Active On
+## Currently
 
 ```
-  Available for   →  SDE-1 / Full Stack / React Native / Backend roles
-  Building        →  Razorpay Webhook Debugger SaaS (MVP scoping)
-  Integrating     →  Meta Ads FBSDK + Conversions API (server-side, production)
-  Learning        →  MCP tooling, AI-connected developer utilities
-  DSA             →  Grinding Medium → Hard (Graphs, DP, System Design)
-  Vision          →  SDE-1 → Senior Engineer → CTO / Technical Co-Founder
+  Open for     →  SDE-1 / Full Stack / React Native / Backend / AI-Integration roles
+  Building     →  Razorpay Webhook Debugger SaaS (MVP scoping)
+  Integrating  →  Meta Ads FBSDK + Conversions API (server-side, production)
+  Learning     →  MCP tooling, AI-connected developer utilities
+  DSA          →  Medium → Hard (Graphs, DP, System Design)
+  Vision       →  SDE-1 → Senior Engineer → CTO / Technical Co-Founder
 ```
 
 ---
 
-## Let's Connect
+## Connect
 
 <div align="center">
 
 Open to **SDE-1, Full Stack, React Native, and Backend roles** at startups and product companies.
-If you're building something real — reach out.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vikashkrdeveloper.vercel.app-f0a940?style=for-the-badge&logo=vercel&logoColor=black&labelColor=111111)](https://vikashkrdeveloper.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikashkrdeveloper-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://linkedin.com/in/vikashkrdeveloper)
-[![Email](https://img.shields.io/badge/Email-vikash.sde.cseiot%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111)](mailto:vikash.sde.cseiot@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-vikashkrdeveloper-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=111111)](https://leetcode.com/u/vikashkrdeveloper)
-[![Codeforces](https://img.shields.io/badge/Codeforces-vikashkrdeveloper-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=111111)](https://codeforces.com/profile/vikashkrdeveloper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vikashkrdeveloper.vercel.app-f0a940?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://vikashkrdeveloper.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikashkrdeveloper-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vikashkrdeveloper)
+[![Play Store](https://img.shields.io/badge/Sewacity%20App-Play%20Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.sewacity.sewacity)
+[![Email](https://img.shields.io/badge/Email-vikash.sde.cseiot%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vikash.sde.cseiot@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-vikashkrdeveloper-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/vikashkrdeveloper)
+[![Codeforces](https://img.shields.io/badge/Codeforces-vikashkrdeveloper-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codeforces.com/profile/vikashkrdeveloper)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f0a940,1a1a2e,0&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f0a940,1a1a2e,0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<sub><strong>Vikash Kumar</strong> &nbsp;—&nbsp; Built with intent. Every commit ships toward production.</sub>
+<sub><strong>Vikash Kumar</strong> &nbsp;-&nbsp; Built with intent. Every commit ships toward production.</sub>
 
 </div>
